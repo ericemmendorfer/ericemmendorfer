@@ -4,7 +4,7 @@
 
 
 ## About Me
-I am a recent graduate from NYU with a BA in Computer Science currently looking for a full time role in software developement. In my free time I enjoy a wide range of activities such as rock climbing, wrestling, Brazilian Jiu-Jitsu, photography, hiking, traveling, and more.
+I am a recent graduate from NYU with a BA in Computer Science base in New York, NY currently looking for a full time role in software developement. In my free time I enjoy a wide range of activities such as rock climbing, wrestling, Brazilian Jiu-Jitsu, photography, hiking, traveling, and more.
 
 
 <h3 align="left">Languages and Tools:</h3>
