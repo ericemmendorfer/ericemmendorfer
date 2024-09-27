@@ -13,3 +13,22 @@ I am a recent graduate from NYU with a BA in Computer Science base in New York, 
 ## Projects
 ### AteIt (Javascript Express and Node.js)
 An online platform allowing users to log restaurants denoting if they have visited or would like to visit any given restaurant, along with additional notes such as how they would rate their experience, what they ordered and more storing all information in MongoDB.AteIt uses Google Maps' API to allow autocomplete with the search function allowing users to fetch the restaurants name and location, which isbadditionally used to create a custom visualization of color coordinated pins on a dynamic map. This program primarily runs using GET and POST request using Express, styled with CSS implementation.
+
+## Coursework
+### Coding Based Courses:
+<ul>
+<li> <a href="https://github.com/ericemmendorfer/Applied-Internet-Technologies">Applied Internet Techonology</a> </li>
+<li><a href="https://github.com/ericemmendorfer/Data-Structures">Data Structures </a></li>
+<li><a href="https://github.com/ericemmendorfer/Computer-Systems-Organization"> Computer Systems Organization </a></li>
+<li><a href="https://github.com/ericemmendorfer/Operating-Systems">Operating Systems</a></li>
+<li><a href="https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md">Data Management and Analytics</a></li>
+</ul>
+
+<br>
+### Math Based Courses:  
+<li> Discrete Math</li>
+<li> Intro. to Cryptography </li>
+<li> Linear Algebra </li>
+<li> Quantum Computing </li>
+<li> Basic Algorithms </li>
+
