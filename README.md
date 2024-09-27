@@ -24,7 +24,6 @@ An online platform allowing users to log restaurants denoting if they have visit
 <li><a href="https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md">Data Management and Analytics</a></li>
 </ul>
 
-<br>
 ### Math Based Courses:  
 <li> Discrete Math</li>
 <li> Intro. to Cryptography </li>
