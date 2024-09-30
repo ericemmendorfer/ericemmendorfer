@@ -18,10 +18,13 @@ An online platform allowing users to log restaurants denoting if they have visit
 ### Coding Based Courses:
 <ul>
 <li> <a href="https://github.com/ericemmendorfer/Applied-Internet-Technologies">Applied Internet Techonology, CSCI-UA 467</a> </li>
-<li><a href="https://github.com/ericemmendorfer/Data-Structures">Data Structures, CSCI-UA 102</a></li>
-<li><a href="https://github.com/ericemmendorfer/Computer-Systems-Organization"> Computer Systems Organization, CSCI-UA 201</a></li>
+<li><a href="https://github.com/ericemmendorfer/Software-Engineering">Software Engineering, CSCI-UA 474</a></li>
 <li><a href="https://github.com/ericemmendorfer/Operating-Systems">Operating Systems, CSCI-UA 202</a></li>
 <li><a href="https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md">Data Management and Analytics, CSCI-UA 470</a></li>
+<li><a href="https://github.com/ericemmendorfer/Computer-Systems-Organization"> Computer Systems Organization, CSCI-UA 201</a></li>
+<li><a href="https://github.com/ericemmendorfer/Data-Structures">Data Structures, CSCI-UA 102</a></li>
+
+
 </ul>
 
 ### Math Based Courses:  
