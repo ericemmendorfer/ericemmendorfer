@@ -17,17 +17,17 @@ An online platform allowing users to log restaurants denoting if they have visit
 ## Coursework
 ### Coding Based Courses:
 <ul>
-<li> <a href="https://github.com/ericemmendorfer/Applied-Internet-Technologies">Applied Internet Techonology</a> </li>
-<li><a href="https://github.com/ericemmendorfer/Data-Structures">Data Structures </a></li>
-<li><a href="https://github.com/ericemmendorfer/Computer-Systems-Organization"> Computer Systems Organization </a></li>
-<li><a href="https://github.com/ericemmendorfer/Operating-Systems">Operating Systems</a></li>
-<li><a href="https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md">Data Management and Analytics</a></li>
+<li> <a href="https://github.com/ericemmendorfer/Applied-Internet-Technologies">Applied Internet Techonology, CSCI-UA 467</a> </li>
+<li><a href="https://github.com/ericemmendorfer/Data-Structures">Data Structures, CSCI-UA 102</a></li>
+<li><a href="https://github.com/ericemmendorfer/Computer-Systems-Organization"> Computer Systems Organization, CSCI-UA 201</a></li>
+<li><a href="https://github.com/ericemmendorfer/Operating-Systems">Operating Systems, CSCI-UA 202</a></li>
+<li><a href="https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md">Data Management and Analytics, CSCI-UA 470</a></li>
 </ul>
 
 ### Math Based Courses:  
-<li> Discrete Math</li>
-<li> Intro. to Cryptography </li>
-<li> Linear Algebra </li>
-<li> Quantum Computing </li>
-<li> Basic Algorithms </li>
+<li> Discrete Math, MATH-UA 120</li>
+<li> Intro. to Cryptography, CSCI-UA 478 </li>
+<li> Linear Algebra, MATH-UA 140 </li>
+<li> Quantum Computing, CSCI-UA 480</li>
+<li> Basic Algorithms, CSCI-UA 310</li>
 
