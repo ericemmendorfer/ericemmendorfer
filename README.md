@@ -26,7 +26,7 @@ An online platform allowing users to log restaurants denoting if they have visit
 <li><a href="https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md">Data Management and Analytics, CSCI-UA 479</a></li>
 <li><a href="https://github.com/ericemmendorfer/Computer-Systems-Organization"> Computer Systems Organization, CSCI-UA 201</a></li>
 <li><a href="https://github.com/ericemmendorfer/Data-Structures">Data Structures, CSCI-UA 102</a></li>
-<li><a href="https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md"> Introduction to Web Design and Computer Principles,  CSCI-UA 40</a></li>
+<li><a href="[https://github.com/ericemmendorfer/Data-Management-and-Analytics/blob/main/README.md](https://github.com/ericemmendorfer/Intro-to-web-design)"> Introduction to Web Design and Computer Principles,  CSCI-UA 40</a></li>
 <li><a href="https://github.com/ericemmendorfer/Intro-to-computer-science">Intro. to Computer Science, CSCI-UA 101</a></li>
 
 
