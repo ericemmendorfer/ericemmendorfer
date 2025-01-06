@@ -37,5 +37,9 @@ An online platform allowing users to log restaurants denoting if they have visit
 <li> Intro. to Cryptography, CSCI-UA 478 </li>
 <li> Linear Algebra, MATH-UA 140 </li>
 <li> Quantum Computing, CSCI-UA 480</li>
-<li> Basic Algorithms, CSCI-UA 310</li>
+<li> Basic Algorithms, CSCI-UA 310</li>  
+
+
+## Leetcode
+
 
