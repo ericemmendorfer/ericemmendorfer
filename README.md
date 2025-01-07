@@ -51,6 +51,7 @@ An online platform allowing users to log restaurants denoting if they have visit
 
 
 ## [Leetcode](https://github.com/ericemmendorfer/Leetcode)
+![LeetCode Stats](https://leetcard.jacoblin.cool/eemmendorfer?theme=nord&font=Inria%20Sans)
 
 
 
