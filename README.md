@@ -1,6 +1,17 @@
 
 # Eric Emmendorfer
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-emmendorfer-582173193/)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/eric-emmendorfer-582173193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/eric-emmendorfer-582173193/" height="30" width="40" /></a>
+<a href="https://codepen.io/ericemmendorfer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ericemmendorfer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27876606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27876606" height="30" width="40" /></a>
+<a href="https://kaggle.com/ericemmendorfer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ericemmendorfer" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/witty_crows_18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="witty_crows_18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/emmendorfer_eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emmendorfer_eric" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/eemmendorfer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eemmendorfer" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@emmendorfer.eric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@emmendorfer.eric" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/emmendorcvd0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="emmendorcvd0" height="30" width="40" /></a>
+</p>
 
 
 ## About Me
@@ -41,5 +52,5 @@ An online platform allowing users to log restaurants denoting if they have visit
 
 
 ## Leetcode
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericemmendorfer" alt="ericemmendorfer" /></a> </p>
 
