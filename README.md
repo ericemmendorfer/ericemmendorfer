@@ -53,7 +53,7 @@ An online platform allowing users to log restaurants denoting if they have visit
 ## [Leetcode](https://github.com/ericemmendorfer/Leetcode)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eemmendorfer?theme=nord&font=Inria%20Sans)
 
-
+## [Codeforces](https://github.com/ericemmendorfer/Codeforces)
 
 ## Github
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericemmendorfer" alt="ericemmendorfer" /></a> </p>
