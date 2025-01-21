@@ -58,6 +58,8 @@ An online platform allowing users to log restaurants denoting if they have visit
 
 ## [Codeforces](https://github.com/ericemmendorfer/Codeforces)
 
+## [Resources I Use](https://github.com/ericemmendorfer/resources)
+
 ## Github
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ericemmendorfer" alt="ericemmendorfer" /></a> </p>
 
