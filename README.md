@@ -57,6 +57,8 @@ An online platform allowing users to log restaurants denoting if they have visit
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eemmendorfer?theme=nord&font=Inria%20Sans)
 
 ## [Codeforces](https://github.com/ericemmendorfer/Codeforces)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=eemmendorfer)
+
 
 
 ## Github
