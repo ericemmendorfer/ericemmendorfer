@@ -68,3 +68,8 @@ An online platform allowing users to log restaurants denoting if they have visit
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ericemmendorfer&show_icons=true&locale=en" alt="ericemmendorfer" /></p>
 
 ## [Resources I Use](https://github.com/ericemmendorfer/resources)
+
+## Current Projects
+- Refine ateit
+- Spotify web app using api
+- github hosted personal website
