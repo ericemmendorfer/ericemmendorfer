@@ -29,7 +29,7 @@ I am a recent graduate from NYU with a BA in Computer Science base in New York, 
 <details>
 <summary>Overview:</summary>  
 <br>
-An online platform allowing users to log restaurants denoting if they have visited or would like to visit any given restaurant, along with additional notes such as how they would rate their experience, what they ordered and more storing all information in MongoDB. AteIt uses Google Maps' API to allow autocomplete with the search function allowing users to fetch the restaurants name and location, which isbadditionally used to create a custom visualization of color coordinated pins on a dynamic map. This program primarily runs using GET and POST request using Express, styled with CSS implementation.
+AteIt is a web application that helps users track restaurants they have visited, want to visit, and any current reservations. It features a personalized interactive map powered by the Google Maps API, with color-coordinated pins for easy organization. The app simplifies restaurant tracking, discovery, and planning by keeping all dining experiences in one place.  
 </details>
 
 
